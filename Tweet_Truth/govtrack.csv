@@ -1,0 +1,735 @@
+state,vote,name,party,Bill
+OR,1,earl blumenauer,D,Paycheck Fairness Act
+TX,0,kevin brady,R,Paycheck Fairness Act
+MD,1,elijah cummings,D,Paycheck Fairness Act
+CO,1,diana degette,D,Paycheck Fairness Act
+FL,1,mario diaz-balart,R,Paycheck Fairness Act
+TX,-1,kay granger,R,Paycheck Fairness Act
+MD,1,steny hoyer,D,Paycheck Fairness Act
+OH,1,marcy kaptur,D,Paycheck Fairness Act
+IA,0,steve king,R,Paycheck Fairness Act
+GA,1,john lewis,D,Paycheck Fairness Act
+MA,1,richard neal,D,Paycheck Fairness Act
+CA,0,devin nunes,R,Paycheck Fairness Act
+CA,1,nancy pelosi,D,Paycheck Fairness Act
+CA,1,lucille roybal-allard,D,Paycheck Fairness Act
+OH,1,tim ryan,D,Paycheck Fairness Act
+CA,1,adam schiff,D,Paycheck Fairness Act
+IL,0,john shimkus,R,Paycheck Fairness Act
+CA,1,maxine waters,D,Paycheck Fairness Act
+FL,1,debbie wasserman schultz,D,Paycheck Fairness Act
+TX,0,michael mccaul,R,Paycheck Fairness Act
+CA,0,kevin mccarthy,R,Paycheck Fairness Act
+FL,1,kathy castor,D,Paycheck Fairness Act
+KY,1,john yarmuth,D,Paycheck Fairness Act
+NE,0,adrian smith,R,Paycheck Fairness Act
+OH,0,jim jordan,R,Paycheck Fairness Act
+VT,1,peter welch,D,Paycheck Fairness Act
+IL,1,bill foster,D,Paycheck Fairness Act
+CA,1,jackie speier,D,Paycheck Fairness Act
+LA,0,steve scalise,R,Paycheck Fairness Act
+TX,0,pete olson,R,Paycheck Fairness Act
+GA,0,tom graves,R,Paycheck Fairness Act
+AL,0,mo brooks,R,Paycheck Fairness Act
+AL,1,terri sewell,D,Paycheck Fairness Act
+AZ,0,paul gosar,R,Paycheck Fairness Act
+CA,1,karen bass,D,Paycheck Fairness Act
+CO,0,scott tipton,R,Paycheck Fairness Act
+FL,0,daniel webster,R,Paycheck Fairness Act
+GA,0,austin scott,R,Paycheck Fairness Act
+IL,0,adam kinzinger,R,Paycheck Fairness Act
+MI,0,bill huizenga,R,Paycheck Fairness Act
+OH,0,bill johnson,R,Paycheck Fairness Act
+OH,0,steve stivers,R,Paycheck Fairness Act
+OH,0,bob gibbs,R,Paycheck Fairness Act
+SC,0,jeff duncan,R,Paycheck Fairness Act
+WI,0,sean duffy,R,Paycheck Fairness Act
+OR,1,suzanne bonamici,D,Paycheck Fairness Act
+KY,0,thomas massie,R,Paycheck Fairness Act
+CA,1,jared huffman,D,Paycheck Fairness Act
+CA,1,eric swalwell,D,Paycheck Fairness Act
+CA,1,mark takano,D,Paycheck Fairness Act
+CA,1,alan lowenthal,D,Paycheck Fairness Act
+CA,1,juan vargas,D,Paycheck Fairness Act
+CA,1,scott peters,D,Paycheck Fairness Act
+FL,0,ted yoho,R,Paycheck Fairness Act
+GA,0,doug collins,R,Paycheck Fairness Act
+HI,1,tulsi gabbard,D,Paycheck Fairness Act
+IL,1,cheri bustos,D,Paycheck Fairness Act
+NC,0,mark meadows,R,Paycheck Fairness Act
+NY,1,grace meng,D,Paycheck Fairness Act
+NY,1,hakeem jeffries,D,Paycheck Fairness Act
+NY,1,sean maloney,D,Paycheck Fairness Act
+TX,1,joaquin castro,D,Paycheck Fairness Act
+TX,1,marc veasey,D,Paycheck Fairness Act
+WA,1,derek kilmer,D,Paycheck Fairness Act
+WI,1,mark pocan,D,Paycheck Fairness Act
+IL,1,robin kelly,D,Paycheck Fairness Act
+MO,0,jason smith,R,Paycheck Fairness Act
+MA,1,katherine clark,D,Paycheck Fairness Act
+AZ,1,ruben gallego,D,Paycheck Fairness Act
+CA,1,ted lieu,D,Paycheck Fairness Act
+GA,0,barry loudermilk,R,Paycheck Fairness Act
+MA,1,seth moulton,D,Paycheck Fairness Act
+MI,1,brenda lawrence,D,Paycheck Fairness Act
+NY,0,lee zeldin,R,Paycheck Fairness Act
+NY,0,elise stefanik,R,Paycheck Fairness Act
+TX,0,john ratcliffe,R,Paycheck Fairness Act
+TX,1,will hurd,R,Paycheck Fairness Act
+TX,0,brian babin,R,Paycheck Fairness Act
+WA,0,dan newhouse,R,Paycheck Fairness Act
+CA,1,ro khanna,D,Paycheck Fairness Act
+FL,0,matt gaetz,R,Paycheck Fairness Act
+FL,1,stephanie murphy,D,Paycheck Fairness Act
+FL,1,val demings,D,Paycheck Fairness Act
+NE,0,don bacon,R,Paycheck Fairness Act
+WA,1,pramila jayapal,D,Paycheck Fairness Act
+UT,0,john curtis,R,Paycheck Fairness Act
+GA,1,lucy mcbath,D,Paycheck Fairness Act
+MI,1,rashida tlaib,D,Paycheck Fairness Act
+MN,1,ilhan omar,D,Paycheck Fairness Act
+NY,1,alexandria ocasio-cortez,D,Paycheck Fairness Act
+TN,0,mark green,R,Paycheck Fairness Act
+TX,0,chip roy,R,Paycheck Fairness Act
+OR,1,earl blumenauer,D,Background Check for Firearms
+TX,0,kevin brady,R,Background Check for Firearms
+MD,1,elijah cummings,D,Background Check for Firearms
+CO,1,diana degette,D,Background Check for Firearms
+FL,0,mario diaz-balart,R,Background Check for Firearms
+TX,0,kay granger,R,Background Check for Firearms
+MD,1,steny hoyer,D,Background Check for Firearms
+OH,1,marcy kaptur,D,Background Check for Firearms
+IA,-1,steve king,R,Background Check for Firearms
+GA,1,john lewis,D,Background Check for Firearms
+MA,1,richard neal,D,Background Check for Firearms
+CA,0,devin nunes,R,Background Check for Firearms
+CA,1,lucille roybal-allard,D,Background Check for Firearms
+OH,1,tim ryan,D,Background Check for Firearms
+CA,1,adam schiff,D,Background Check for Firearms
+IL,0,john shimkus,R,Background Check for Firearms
+CA,1,maxine waters,D,Background Check for Firearms
+FL,1,debbie wasserman schultz,D,Background Check for Firearms
+TX,0,michael mccaul,R,Background Check for Firearms
+CA,0,kevin mccarthy,R,Background Check for Firearms
+FL,1,kathy castor,D,Background Check for Firearms
+KY,1,john yarmuth,D,Background Check for Firearms
+NE,0,adrian smith,R,Background Check for Firearms
+OH,0,jim jordan,R,Background Check for Firearms
+VT,1,peter welch,D,Background Check for Firearms
+IL,1,bill foster,D,Background Check for Firearms
+CA,1,jackie speier,D,Background Check for Firearms
+LA,0,steve scalise,R,Background Check for Firearms
+TX,0,pete olson,R,Background Check for Firearms
+GA,0,tom graves,R,Background Check for Firearms
+AL,0,mo brooks,R,Background Check for Firearms
+AL,1,terri sewell,D,Background Check for Firearms
+AZ,0,paul gosar,R,Background Check for Firearms
+CA,1,karen bass,D,Background Check for Firearms
+CO,0,scott tipton,R,Background Check for Firearms
+FL,0,daniel webster,R,Background Check for Firearms
+GA,0,austin scott,R,Background Check for Firearms
+IL,0,adam kinzinger,R,Background Check for Firearms
+MI,0,bill huizenga,R,Background Check for Firearms
+OH,0,bill johnson,R,Background Check for Firearms
+OH,0,steve stivers,R,Background Check for Firearms
+OH,0,bob gibbs,R,Background Check for Firearms
+SC,0,jeff duncan,R,Background Check for Firearms
+WI,0,sean duffy,R,Background Check for Firearms
+OR,1,suzanne bonamici,D,Background Check for Firearms
+KY,0,thomas massie,R,Background Check for Firearms
+CA,1,jared huffman,D,Background Check for Firearms
+CA,1,eric swalwell,D,Background Check for Firearms
+CA,1,mark takano,D,Background Check for Firearms
+CA,1,alan lowenthal,D,Background Check for Firearms
+CA,1,juan vargas,D,Background Check for Firearms
+CA,1,scott peters,D,Background Check for Firearms
+FL,0,ted yoho,R,Background Check for Firearms
+GA,0,doug collins,R,Background Check for Firearms
+HI,1,tulsi gabbard,D,Background Check for Firearms
+IL,1,cheri bustos,D,Background Check for Firearms
+NC,0,mark meadows,R,Background Check for Firearms
+NY,1,grace meng,D,Background Check for Firearms
+NY,1,hakeem jeffries,D,Background Check for Firearms
+NY,1,sean maloney,D,Background Check for Firearms
+TX,1,joaquin castro,D,Background Check for Firearms
+TX,1,marc veasey,D,Background Check for Firearms
+WA,1,derek kilmer,D,Background Check for Firearms
+WI,1,mark pocan,D,Background Check for Firearms
+IL,1,robin kelly,D,Background Check for Firearms
+MO,0,jason smith,R,Background Check for Firearms
+MA,1,katherine clark,D,Background Check for Firearms
+AZ,1,ruben gallego,D,Background Check for Firearms
+CA,1,ted lieu,D,Background Check for Firearms
+GA,0,barry loudermilk,R,Background Check for Firearms
+MA,1,seth moulton,D,Background Check for Firearms
+MI,1,brenda lawrence,D,Background Check for Firearms
+NY,0,lee zeldin,R,Background Check for Firearms
+NY,0,elise stefanik,R,Background Check for Firearms
+TX,0,john ratcliffe,R,Background Check for Firearms
+TX,0,will hurd,R,Background Check for Firearms
+TX,0,brian babin,R,Background Check for Firearms
+WA,0,dan newhouse,R,Background Check for Firearms
+CA,1,ro khanna,D,Background Check for Firearms
+FL,0,matt gaetz,R,Background Check for Firearms
+FL,1,stephanie murphy,D,Background Check for Firearms
+FL,1,val demings,D,Background Check for Firearms
+NE,0,don bacon,R,Background Check for Firearms
+WA,1,pramila jayapal,D,Background Check for Firearms
+UT,0,john curtis,R,Background Check for Firearms
+GA,1,lucy mcbath,D,Background Check for Firearms
+MI,1,rashida tlaib,D,Background Check for Firearms
+MN,1,ilhan omar,D,Background Check for Firearms
+NY,1,alexandria ocasio-cortez,D,Background Check for Firearms
+TN,0,mark green,R,Background Check for Firearms
+TX,0,chip roy,R,Background Check for Firearms
+OR,1,earl blumenauer,D,For the People Act 2019
+TX,0,kevin brady,R,For the People Act 2019
+MD,1,elijah cummings,D,For the People Act 2019
+CO,1,diana degette,D,For the People Act 2019
+FL,0,mario diaz-balart,R,For the People Act 2019
+TX,0,kay granger,R,For the People Act 2019
+MD,1,steny hoyer,D,For the People Act 2019
+OH,1,marcy kaptur,D,For the People Act 2019
+IA,0,steve king,R,For the People Act 2019
+GA,1,john lewis,D,For the People Act 2019
+MA,1,richard neal,D,For the People Act 2019
+CA,0,devin nunes,R,For the People Act 2019
+CA,1,nancy pelosi,D,For the People Act 2019
+CA,1,lucille roybal-allard,D,For the People Act 2019
+OH,1,tim ryan,D,For the People Act 2019
+CA,1,adam schiff,D,For the People Act 2019
+IL,0,john shimkus,R,For the People Act 2019
+CA,1,maxine waters,D,For the People Act 2019
+FL,1,debbie wasserman schultz,D,For the People Act 2019
+TX,0,michael mccaul,R,For the People Act 2019
+CA,0,kevin mccarthy,R,For the People Act 2019
+FL,1,kathy castor,D,For the People Act 2019
+KY,1,john yarmuth,D,For the People Act 2019
+NE,0,adrian smith,R,For the People Act 2019
+OH,0,jim jordan,R,For the People Act 2019
+VT,1,peter welch,D,For the People Act 2019
+IL,1,bill foster,D,For the People Act 2019
+CA,1,jackie speier,D,For the People Act 2019
+LA,0,steve scalise,R,For the People Act 2019
+TX,0,pete olson,R,For the People Act 2019
+GA,0,tom graves,R,For the People Act 2019
+AL,0,mo brooks,R,For the People Act 2019
+AL,1,terri sewell,D,For the People Act 2019
+AZ,0,paul gosar,R,For the People Act 2019
+CA,1,karen bass,D,For the People Act 2019
+CO,0,scott tipton,R,For the People Act 2019
+FL,0,daniel webster,R,For the People Act 2019
+GA,0,austin scott,R,For the People Act 2019
+IL,0,adam kinzinger,R,For the People Act 2019
+MI,0,bill huizenga,R,For the People Act 2019
+OH,0,bill johnson,R,For the People Act 2019
+OH,-1,steve stivers,R,For the People Act 2019
+OH,0,bob gibbs,R,For the People Act 2019
+SC,0,jeff duncan,R,For the People Act 2019
+WI,0,sean duffy,R,For the People Act 2019
+OR,1,suzanne bonamici,D,For the People Act 2019
+KY,0,thomas massie,R,For the People Act 2019
+CA,1,jared huffman,D,For the People Act 2019
+CA,1,eric swalwell,D,For the People Act 2019
+CA,1,mark takano,D,For the People Act 2019
+CA,1,alan lowenthal,D,For the People Act 2019
+CA,1,juan vargas,D,For the People Act 2019
+CA,1,scott peters,D,For the People Act 2019
+FL,0,ted yoho,R,For the People Act 2019
+GA,0,doug collins,R,For the People Act 2019
+HI,1,tulsi gabbard,D,For the People Act 2019
+IL,1,cheri bustos,D,For the People Act 2019
+NC,0,mark meadows,R,For the People Act 2019
+NY,1,grace meng,D,For the People Act 2019
+NY,1,hakeem jeffries,D,For the People Act 2019
+NY,1,sean maloney,D,For the People Act 2019
+TX,1,joaquin castro,D,For the People Act 2019
+TX,1,marc veasey,D,For the People Act 2019
+WA,1,derek kilmer,D,For the People Act 2019
+WI,1,mark pocan,D,For the People Act 2019
+IL,1,robin kelly,D,For the People Act 2019
+MO,0,jason smith,R,For the People Act 2019
+MA,1,katherine clark,D,For the People Act 2019
+AZ,1,ruben gallego,D,For the People Act 2019
+CA,1,ted lieu,D,For the People Act 2019
+GA,0,barry loudermilk,R,For the People Act 2019
+MA,1,seth moulton,D,For the People Act 2019
+MI,1,brenda lawrence,D,For the People Act 2019
+NY,0,lee zeldin,R,For the People Act 2019
+NY,0,elise stefanik,R,For the People Act 2019
+TX,0,john ratcliffe,R,For the People Act 2019
+TX,0,will hurd,R,For the People Act 2019
+TX,0,brian babin,R,For the People Act 2019
+WA,0,dan newhouse,R,For the People Act 2019
+CA,1,ro khanna,D,For the People Act 2019
+FL,0,matt gaetz,R,For the People Act 2019
+FL,1,stephanie murphy,D,For the People Act 2019
+FL,1,val demings,D,For the People Act 2019
+NE,0,don bacon,R,For the People Act 2019
+WA,1,pramila jayapal,D,For the People Act 2019
+UT,0,john curtis,R,For the People Act 2019
+GA,1,lucy mcbath,D,For the People Act 2019
+MI,1,rashida tlaib,D,For the People Act 2019
+MN,1,ilhan omar,D,For the People Act 2019
+NY,1,alexandria ocasio-cortez,D,For the People Act 2019
+TN,0,mark green,R,For the People Act 2019
+TX,0,chip roy,R,For the People Act 2019
+OR,1,earl blumenauer,D,Trump's National Emergency
+TX,0,kevin brady,R,Trump's National Emergency
+MD,1,elijah cummings,D,Trump's National Emergency
+CO,1,diana degette,D,Trump's National Emergency
+FL,0,mario diaz-balart,R,Trump's National Emergency
+TX,-1,kay granger,R,Trump's National Emergency
+MD,1,steny hoyer,D,Trump's National Emergency
+OH,1,marcy kaptur,D,Trump's National Emergency
+IA,0,steve king,R,Trump's National Emergency
+GA,1,john lewis,D,Trump's National Emergency
+MA,1,richard neal,D,Trump's National Emergency
+CA,0,devin nunes,R,Trump's National Emergency
+CA,1,nancy pelosi,D,Trump's National Emergency
+CA,1,lucille roybal-allard,D,Trump's National Emergency
+OH,1,tim ryan,D,Trump's National Emergency
+CA,1,adam schiff,D,Trump's National Emergency
+IL,0,john shimkus,R,Trump's National Emergency
+CA,1,maxine waters,D,Trump's National Emergency
+FL,1,debbie wasserman schultz,D,Trump's National Emergency
+TX,0,michael mccaul,R,Trump's National Emergency
+CA,0,kevin mccarthy,R,Trump's National Emergency
+FL,1,kathy castor,D,Trump's National Emergency
+KY,1,john yarmuth,D,Trump's National Emergency
+NE,0,adrian smith,R,Trump's National Emergency
+OH,0,jim jordan,R,Trump's National Emergency
+VT,1,peter welch,D,Trump's National Emergency
+IL,1,bill foster,D,Trump's National Emergency
+CA,-1,jackie speier,D,Trump's National Emergency
+LA,0,steve scalise,R,Trump's National Emergency
+TX,0,pete olson,R,Trump's National Emergency
+GA,0,tom graves,R,Trump's National Emergency
+AL,0,mo brooks,R,Trump's National Emergency
+AL,1,terri sewell,D,Trump's National Emergency
+AZ,0,paul gosar,R,Trump's National Emergency
+CA,1,karen bass,D,Trump's National Emergency
+CO,0,scott tipton,R,Trump's National Emergency
+FL,0,daniel webster,R,Trump's National Emergency
+GA,0,austin scott,R,Trump's National Emergency
+IL,0,adam kinzinger,R,Trump's National Emergency
+MI,0,bill huizenga,R,Trump's National Emergency
+OH,0,bill johnson,R,Trump's National Emergency
+OH,0,steve stivers,R,Trump's National Emergency
+OH,0,bob gibbs,R,Trump's National Emergency
+SC,0,jeff duncan,R,Trump's National Emergency
+WI,0,sean duffy,R,Trump's National Emergency
+OR,1,suzanne bonamici,D,Trump's National Emergency
+KY,1,thomas massie,R,Trump's National Emergency
+CA,1,jared huffman,D,Trump's National Emergency
+CA,1,eric swalwell,D,Trump's National Emergency
+CA,1,mark takano,D,Trump's National Emergency
+CA,1,alan lowenthal,D,Trump's National Emergency
+CA,1,juan vargas,D,Trump's National Emergency
+CA,1,scott peters,D,Trump's National Emergency
+FL,0,ted yoho,R,Trump's National Emergency
+GA,0,doug collins,R,Trump's National Emergency
+HI,1,tulsi gabbard,D,Trump's National Emergency
+IL,1,cheri bustos,D,Trump's National Emergency
+NC,0,mark meadows,R,Trump's National Emergency
+NY,1,grace meng,D,Trump's National Emergency
+NY,1,hakeem jeffries,D,Trump's National Emergency
+NY,1,sean maloney,D,Trump's National Emergency
+TX,1,joaquin castro,D,Trump's National Emergency
+TX,1,marc veasey,D,Trump's National Emergency
+WA,1,derek kilmer,D,Trump's National Emergency
+WI,1,mark pocan,D,Trump's National Emergency
+IL,1,robin kelly,D,Trump's National Emergency
+MO,0,jason smith,R,Trump's National Emergency
+MA,1,katherine clark,D,Trump's National Emergency
+AZ,1,ruben gallego,D,Trump's National Emergency
+CA,1,ted lieu,D,Trump's National Emergency
+GA,0,barry loudermilk,R,Trump's National Emergency
+MA,1,seth moulton,D,Trump's National Emergency
+MI,1,brenda lawrence,D,Trump's National Emergency
+NY,0,lee zeldin,R,Trump's National Emergency
+NY,1,elise stefanik,R,Trump's National Emergency
+TX,0,john ratcliffe,R,Trump's National Emergency
+TX,1,will hurd,R,Trump's National Emergency
+TX,0,brian babin,R,Trump's National Emergency
+WA,0,dan newhouse,R,Trump's National Emergency
+CA,1,ro khanna,D,Trump's National Emergency
+FL,0,matt gaetz,R,Trump's National Emergency
+FL,1,stephanie murphy,D,Trump's National Emergency
+FL,1,val demings,D,Trump's National Emergency
+NE,0,don bacon,R,Trump's National Emergency
+WA,1,pramila jayapal,D,Trump's National Emergency
+UT,0,john curtis,R,Trump's National Emergency
+GA,1,lucy mcbath,D,Trump's National Emergency
+MI,1,rashida tlaib,D,Trump's National Emergency
+MN,1,ilhan omar,D,Trump's National Emergency
+NY,1,alexandria ocasio-cortez,D,Trump's National Emergency
+TN,0,mark green,R,Trump's National Emergency
+TX,0,chip roy,R,Trump's National Emergency
+OR,1,earl blumenauer,D,Violence against Women Reauthorization Act
+TX,0,kevin brady,R,Violence against Women Reauthorization Act
+MD,1,elijah cummings,D,Violence against Women Reauthorization Act
+CO,1,diana degette,D,Violence against Women Reauthorization Act
+FL,1,mario diaz-balart,R,Violence against Women Reauthorization Act
+TX,-1,kay granger,R,Violence against Women Reauthorization Act
+MD,1,steny hoyer,D,Violence against Women Reauthorization Act
+OH,1,marcy kaptur,D,Violence against Women Reauthorization Act
+IA,0,steve king,R,Violence against Women Reauthorization Act
+GA,1,john lewis,D,Violence against Women Reauthorization Act
+MA,1,richard neal,D,Violence against Women Reauthorization Act
+CA,0,devin nunes,R,Violence against Women Reauthorization Act
+CA,1,lucille roybal-allard,D,Violence against Women Reauthorization Act
+OH,-1,tim ryan,D,Violence against Women Reauthorization Act
+CA,1,adam schiff,D,Violence against Women Reauthorization Act
+IL,0,john shimkus,R,Violence against Women Reauthorization Act
+CA,1,maxine waters,D,Violence against Women Reauthorization Act
+FL,1,debbie wasserman schultz,D,Violence against Women Reauthorization Act
+TX,1,michael mccaul,R,Violence against Women Reauthorization Act
+CA,0,kevin mccarthy,R,Violence against Women Reauthorization Act
+FL,1,kathy castor,D,Violence against Women Reauthorization Act
+KY,1,john yarmuth,D,Violence against Women Reauthorization Act
+NE,0,adrian smith,R,Violence against Women Reauthorization Act
+OH,0,jim jordan,R,Violence against Women Reauthorization Act
+VT,1,peter welch,D,Violence against Women Reauthorization Act
+IL,1,bill foster,D,Violence against Women Reauthorization Act
+CA,1,jackie speier,D,Violence against Women Reauthorization Act
+LA,0,steve scalise,R,Violence against Women Reauthorization Act
+TX,1,pete olson,R,Violence against Women Reauthorization Act
+GA,0,tom graves,R,Violence against Women Reauthorization Act
+AL,0,mo brooks,R,Violence against Women Reauthorization Act
+AL,1,terri sewell,D,Violence against Women Reauthorization Act
+AZ,0,paul gosar,R,Violence against Women Reauthorization Act
+CA,1,karen bass,D,Violence against Women Reauthorization Act
+CO,0,scott tipton,R,Violence against Women Reauthorization Act
+FL,0,daniel webster,R,Violence against Women Reauthorization Act
+GA,0,austin scott,R,Violence against Women Reauthorization Act
+IL,1,adam kinzinger,R,Violence against Women Reauthorization Act
+MI,0,bill huizenga,R,Violence against Women Reauthorization Act
+OH,0,bill johnson,R,Violence against Women Reauthorization Act
+OH,1,steve stivers,R,Violence against Women Reauthorization Act
+OH,0,bob gibbs,R,Violence against Women Reauthorization Act
+SC,0,jeff duncan,R,Violence against Women Reauthorization Act
+WI,0,sean duffy,R,Violence against Women Reauthorization Act
+OR,1,suzanne bonamici,D,Violence against Women Reauthorization Act
+KY,0,thomas massie,R,Violence against Women Reauthorization Act
+CA,1,jared huffman,D,Violence against Women Reauthorization Act
+CA,1,eric swalwell,D,Violence against Women Reauthorization Act
+CA,1,mark takano,D,Violence against Women Reauthorization Act
+CA,1,alan lowenthal,D,Violence against Women Reauthorization Act
+CA,1,juan vargas,D,Violence against Women Reauthorization Act
+CA,1,scott peters,D,Violence against Women Reauthorization Act
+FL,0,ted yoho,R,Violence against Women Reauthorization Act
+GA,0,doug collins,R,Violence against Women Reauthorization Act
+HI,1,tulsi gabbard,D,Violence against Women Reauthorization Act
+IL,1,cheri bustos,D,Violence against Women Reauthorization Act
+NC,0,mark meadows,R,Violence against Women Reauthorization Act
+NY,1,grace meng,D,Violence against Women Reauthorization Act
+NY,1,hakeem jeffries,D,Violence against Women Reauthorization Act
+NY,1,sean maloney,D,Violence against Women Reauthorization Act
+TX,1,joaquin castro,D,Violence against Women Reauthorization Act
+TX,1,marc veasey,D,Violence against Women Reauthorization Act
+WA,1,derek kilmer,D,Violence against Women Reauthorization Act
+WI,1,mark pocan,D,Violence against Women Reauthorization Act
+IL,1,robin kelly,D,Violence against Women Reauthorization Act
+MO,0,jason smith,R,Violence against Women Reauthorization Act
+MA,-1,katherine clark,D,Violence against Women Reauthorization Act
+AZ,1,ruben gallego,D,Violence against Women Reauthorization Act
+CA,1,ted lieu,D,Violence against Women Reauthorization Act
+GA,0,barry loudermilk,R,Violence against Women Reauthorization Act
+MA,1,seth moulton,D,Violence against Women Reauthorization Act
+MI,1,brenda lawrence,D,Violence against Women Reauthorization Act
+NY,1,lee zeldin,R,Violence against Women Reauthorization Act
+NY,0,elise stefanik,R,Violence against Women Reauthorization Act
+TX,0,john ratcliffe,R,Violence against Women Reauthorization Act
+TX,1,will hurd,R,Violence against Women Reauthorization Act
+TX,0,brian babin,R,Violence against Women Reauthorization Act
+WA,0,dan newhouse,R,Violence against Women Reauthorization Act
+CA,1,ro khanna,D,Violence against Women Reauthorization Act
+FL,0,matt gaetz,R,Violence against Women Reauthorization Act
+FL,1,stephanie murphy,D,Violence against Women Reauthorization Act
+FL,1,val demings,D,Violence against Women Reauthorization Act
+NE,0,don bacon,R,Violence against Women Reauthorization Act
+WA,1,pramila jayapal,D,Violence against Women Reauthorization Act
+UT,0,john curtis,R,Violence against Women Reauthorization Act
+GA,1,lucy mcbath,D,Violence against Women Reauthorization Act
+MI,1,rashida tlaib,D,Violence against Women Reauthorization Act
+MN,1,ilhan omar,D,Violence against Women Reauthorization Act
+NY,1,alexandria ocasio-cortez,D,Violence against Women Reauthorization Act
+TN,0,mark green,R,Violence against Women Reauthorization Act
+TX,0,chip roy,R,Violence against Women Reauthorization Act
+OR,1,earl blumenauer,D,Health Care
+TX,0,kevin brady,R,Health Care
+MD,1,elijah cummings,D,Health Care
+CO,1,diana degette,D,Health Care
+FL,0,mario diaz-balart,R,Health Care
+TX,0,kay granger,R,Health Care
+MD,1,steny hoyer,D,Health Care
+OH,1,marcy kaptur,D,Health Care
+IA,0,steve king,R,Health Care
+GA,1,john lewis,D,Health Care
+MA,1,richard neal,D,Health Care
+CA,0,devin nunes,R,Health Care
+CA,1,nancy pelosi,D,Health Care
+CA,1,lucille roybal-allard,D,Health Care
+OH,-1,tim ryan,D,Health Care
+CA,1,adam schiff,D,Health Care
+IL,0,john shimkus,R,Health Care
+CA,1,maxine waters,D,Health Care
+FL,1,debbie wasserman schultz,D,Health Care
+TX,0,michael mccaul,R,Health Care
+CA,0,kevin mccarthy,R,Health Care
+FL,1,kathy castor,D,Health Care
+KY,1,john yarmuth,D,Health Care
+NE,0,adrian smith,R,Health Care
+OH,0,jim jordan,R,Health Care
+VT,1,peter welch,D,Health Care
+IL,1,bill foster,D,Health Care
+CA,1,jackie speier,D,Health Care
+LA,0,steve scalise,R,Health Care
+TX,0,pete olson,R,Health Care
+GA,0,tom graves,R,Health Care
+AL,0,mo brooks,R,Health Care
+AL,1,terri sewell,D,Health Care
+AZ,0,paul gosar,R,Health Care
+CA,1,karen bass,D,Health Care
+CO,0,scott tipton,R,Health Care
+FL,0,daniel webster,R,Health Care
+GA,0,austin scott,R,Health Care
+IL,0,adam kinzinger,R,Health Care
+MI,0,bill huizenga,R,Health Care
+OH,0,bill johnson,R,Health Care
+OH,-1,steve stivers,R,Health Care
+OH,0,bob gibbs,R,Health Care
+SC,0,jeff duncan,R,Health Care
+WI,0,sean duffy,R,Health Care
+OR,1,suzanne bonamici,D,Health Care
+KY,0,thomas massie,R,Health Care
+CA,1,jared huffman,D,Health Care
+CA,1,eric swalwell,D,Health Care
+CA,1,mark takano,D,Health Care
+CA,1,alan lowenthal,D,Health Care
+CA,1,juan vargas,D,Health Care
+CA,1,scott peters,D,Health Care
+FL,0,ted yoho,R,Health Care
+GA,0,doug collins,R,Health Care
+HI,1,tulsi gabbard,D,Health Care
+IL,1,cheri bustos,D,Health Care
+NC,0,mark meadows,R,Health Care
+NY,1,grace meng,D,Health Care
+NY,1,hakeem jeffries,D,Health Care
+NY,1,sean maloney,D,Health Care
+TX,1,joaquin castro,D,Health Care
+TX,1,marc veasey,D,Health Care
+WA,1,derek kilmer,D,Health Care
+WI,1,mark pocan,D,Health Care
+IL,1,robin kelly,D,Health Care
+MO,0,jason smith,R,Health Care
+MA,1,katherine clark,D,Health Care
+AZ,1,ruben gallego,D,Health Care
+CA,1,ted lieu,D,Health Care
+GA,0,barry loudermilk,R,Health Care
+MA,1,seth moulton,D,Health Care
+MI,1,brenda lawrence,D,Health Care
+NY,0,lee zeldin,R,Health Care
+NY,1,elise stefanik,R,Health Care
+TX,0,john ratcliffe,R,Health Care
+TX,0,will hurd,R,Health Care
+TX,0,brian babin,R,Health Care
+WA,0,dan newhouse,R,Health Care
+CA,1,ro khanna,D,Health Care
+FL,0,matt gaetz,R,Health Care
+FL,1,stephanie murphy,D,Health Care
+FL,1,val demings,D,Health Care
+NE,0,don bacon,R,Health Care
+WA,1,pramila jayapal,D,Health Care
+UT,0,john curtis,R,Health Care
+GA,1,lucy mcbath,D,Health Care
+MI,1,rashida tlaib,D,Health Care
+MN,1,ilhan omar,D,Health Care
+NY,1,alexandria ocasio-cortez,D,Health Care
+TN,0,mark green,R,Health Care
+TX,0,chip roy,R,Health Care
+OR,1,earl blumenauer,D,Remove Troops from Yemen
+TX,0,kevin brady,R,Remove Troops from Yemen
+MD,1,elijah cummings,D,Remove Troops from Yemen
+CO,1,diana degette,D,Remove Troops from Yemen
+FL,0,mario diaz-balart,R,Remove Troops from Yemen
+TX,-1,kay granger,R,Remove Troops from Yemen
+MD,1,steny hoyer,D,Remove Troops from Yemen
+OH,1,marcy kaptur,D,Remove Troops from Yemen
+IA,0,steve king,R,Remove Troops from Yemen
+GA,1,john lewis,D,Remove Troops from Yemen
+MA,1,richard neal,D,Remove Troops from Yemen
+CA,0,devin nunes,R,Remove Troops from Yemen
+CA,1,nancy pelosi,D,Remove Troops from Yemen
+CA,1,lucille roybal-allard,D,Remove Troops from Yemen
+OH,-1,tim ryan,D,Remove Troops from Yemen
+CA,1,adam schiff,D,Remove Troops from Yemen
+IL,0,john shimkus,R,Remove Troops from Yemen
+CA,1,maxine waters,D,Remove Troops from Yemen
+FL,1,debbie wasserman schultz,D,Remove Troops from Yemen
+TX,0,michael mccaul,R,Remove Troops from Yemen
+CA,0,kevin mccarthy,R,Remove Troops from Yemen
+FL,1,kathy castor,D,Remove Troops from Yemen
+KY,1,john yarmuth,D,Remove Troops from Yemen
+NE,0,adrian smith,R,Remove Troops from Yemen
+OH,1,jim jordan,R,Remove Troops from Yemen
+VT,1,peter welch,D,Remove Troops from Yemen
+IL,1,bill foster,D,Remove Troops from Yemen
+CA,1,jackie speier,D,Remove Troops from Yemen
+LA,0,steve scalise,R,Remove Troops from Yemen
+TX,0,pete olson,R,Remove Troops from Yemen
+GA,0,tom graves,R,Remove Troops from Yemen
+AL,0,mo brooks,R,Remove Troops from Yemen
+AL,1,terri sewell,D,Remove Troops from Yemen
+AZ,1,paul gosar,R,Remove Troops from Yemen
+CA,1,karen bass,D,Remove Troops from Yemen
+CO,0,scott tipton,R,Remove Troops from Yemen
+FL,0,daniel webster,R,Remove Troops from Yemen
+GA,0,austin scott,R,Remove Troops from Yemen
+IL,0,adam kinzinger,R,Remove Troops from Yemen
+MI,0,bill huizenga,R,Remove Troops from Yemen
+OH,0,bill johnson,R,Remove Troops from Yemen
+OH,0,steve stivers,R,Remove Troops from Yemen
+OH,0,bob gibbs,R,Remove Troops from Yemen
+SC,0,jeff duncan,R,Remove Troops from Yemen
+WI,0,sean duffy,R,Remove Troops from Yemen
+OR,1,suzanne bonamici,D,Remove Troops from Yemen
+KY,1,thomas massie,R,Remove Troops from Yemen
+CA,1,jared huffman,D,Remove Troops from Yemen
+CA,1,eric swalwell,D,Remove Troops from Yemen
+CA,1,mark takano,D,Remove Troops from Yemen
+CA,1,alan lowenthal,D,Remove Troops from Yemen
+CA,1,juan vargas,D,Remove Troops from Yemen
+CA,1,scott peters,D,Remove Troops from Yemen
+FL,0,ted yoho,R,Remove Troops from Yemen
+GA,0,doug collins,R,Remove Troops from Yemen
+HI,1,tulsi gabbard,D,Remove Troops from Yemen
+IL,1,cheri bustos,D,Remove Troops from Yemen
+NC,1,mark meadows,R,Remove Troops from Yemen
+NY,1,grace meng,D,Remove Troops from Yemen
+NY,1,hakeem jeffries,D,Remove Troops from Yemen
+NY,1,sean maloney,D,Remove Troops from Yemen
+TX,1,joaquin castro,D,Remove Troops from Yemen
+TX,1,marc veasey,D,Remove Troops from Yemen
+WA,1,derek kilmer,D,Remove Troops from Yemen
+WI,1,mark pocan,D,Remove Troops from Yemen
+IL,1,robin kelly,D,Remove Troops from Yemen
+MO,0,jason smith,R,Remove Troops from Yemen
+MA,-1,katherine clark,D,Remove Troops from Yemen
+AZ,1,ruben gallego,D,Remove Troops from Yemen
+CA,1,ted lieu,D,Remove Troops from Yemen
+GA,0,barry loudermilk,R,Remove Troops from Yemen
+MA,1,seth moulton,D,Remove Troops from Yemen
+MI,1,brenda lawrence,D,Remove Troops from Yemen
+NY,0,lee zeldin,R,Remove Troops from Yemen
+NY,0,elise stefanik,R,Remove Troops from Yemen
+TX,0,john ratcliffe,R,Remove Troops from Yemen
+TX,0,will hurd,R,Remove Troops from Yemen
+TX,0,brian babin,R,Remove Troops from Yemen
+WA,0,dan newhouse,R,Remove Troops from Yemen
+CA,1,ro khanna,D,Remove Troops from Yemen
+FL,1,matt gaetz,R,Remove Troops from Yemen
+FL,1,stephanie murphy,D,Remove Troops from Yemen
+FL,1,val demings,D,Remove Troops from Yemen
+NE,0,don bacon,R,Remove Troops from Yemen
+WA,1,pramila jayapal,D,Remove Troops from Yemen
+UT,0,john curtis,R,Remove Troops from Yemen
+GA,1,lucy mcbath,D,Remove Troops from Yemen
+MI,1,rashida tlaib,D,Remove Troops from Yemen
+MN,1,ilhan omar,D,Remove Troops from Yemen
+NY,1,alexandria ocasio-cortez,D,Remove Troops from Yemen
+TN,0,mark green,R,Remove Troops from Yemen
+TX,1,chip roy,R,Remove Troops from Yemen
+OR,1,earl blumenauer,D,Save the Internet
+TX,0,kevin brady,R,Save the Internet
+MD,1,elijah cummings,D,Save the Internet
+CO,1,diana degette,D,Save the Internet
+FL,0,mario diaz-balart,R,Save the Internet
+TX,0,kay granger,R,Save the Internet
+MD,1,steny hoyer,D,Save the Internet
+OH,1,marcy kaptur,D,Save the Internet
+IA,0,steve king,R,Save the Internet
+GA,1,john lewis,D,Save the Internet
+MA,1,richard neal,D,Save the Internet
+CA,0,devin nunes,R,Save the Internet
+CA,1,nancy pelosi,D,Save the Internet
+CA,1,lucille roybal-allard,D,Save the Internet
+OH,1,tim ryan,D,Save the Internet
+CA,1,adam schiff,D,Save the Internet
+IL,0,john shimkus,R,Save the Internet
+CA,1,maxine waters,D,Save the Internet
+FL,1,debbie wasserman schultz,D,Save the Internet
+TX,0,michael mccaul,R,Save the Internet
+CA,0,kevin mccarthy,R,Save the Internet
+FL,1,kathy castor,D,Save the Internet
+KY,1,john yarmuth,D,Save the Internet
+NE,0,adrian smith,R,Save the Internet
+OH,0,jim jordan,R,Save the Internet
+VT,-1,peter welch,D,Save the Internet
+IL,1,bill foster,D,Save the Internet
+CA,1,jackie speier,D,Save the Internet
+LA,0,steve scalise,R,Save the Internet
+TX,-1,pete olson,R,Save the Internet
+GA,0,tom graves,R,Save the Internet
+AL,0,mo brooks,R,Save the Internet
+AL,1,terri sewell,D,Save the Internet
+AZ,0,paul gosar,R,Save the Internet
+CA,1,karen bass,D,Save the Internet
+CO,0,scott tipton,R,Save the Internet
+FL,0,daniel webster,R,Save the Internet
+GA,0,austin scott,R,Save the Internet
+IL,0,adam kinzinger,R,Save the Internet
+MI,0,bill huizenga,R,Save the Internet
+OH,0,bill johnson,R,Save the Internet
+OH,0,steve stivers,R,Save the Internet
+OH,0,bob gibbs,R,Save the Internet
+SC,0,jeff duncan,R,Save the Internet
+WI,0,sean duffy,R,Save the Internet
+OR,1,suzanne bonamici,D,Save the Internet
+KY,0,thomas massie,R,Save the Internet
+CA,1,jared huffman,D,Save the Internet
+CA,1,eric swalwell,D,Save the Internet
+CA,1,mark takano,D,Save the Internet
+CA,1,alan lowenthal,D,Save the Internet
+CA,1,juan vargas,D,Save the Internet
+CA,1,scott peters,D,Save the Internet
+FL,0,ted yoho,R,Save the Internet
+GA,0,doug collins,R,Save the Internet
+HI,1,tulsi gabbard,D,Save the Internet
+IL,1,cheri bustos,D,Save the Internet
+NC,0,mark meadows,R,Save the Internet
+NY,1,grace meng,D,Save the Internet
+NY,1,hakeem jeffries,D,Save the Internet
+NY,1,sean maloney,D,Save the Internet
+TX,1,joaquin castro,D,Save the Internet
+TX,1,marc veasey,D,Save the Internet
+WA,1,derek kilmer,D,Save the Internet
+WI,1,mark pocan,D,Save the Internet
+IL,1,robin kelly,D,Save the Internet
+MO,0,jason smith,R,Save the Internet
+MA,1,katherine clark,D,Save the Internet
+AZ,1,ruben gallego,D,Save the Internet
+CA,1,ted lieu,D,Save the Internet
+GA,0,barry loudermilk,R,Save the Internet
+MA,1,seth moulton,D,Save the Internet
+MI,1,brenda lawrence,D,Save the Internet
+NY,0,lee zeldin,R,Save the Internet
+NY,0,elise stefanik,R,Save the Internet
+TX,0,john ratcliffe,R,Save the Internet
+TX,0,will hurd,R,Save the Internet
+TX,-1,brian babin,R,Save the Internet
+WA,0,dan newhouse,R,Save the Internet
+CA,1,ro khanna,D,Save the Internet
+FL,0,matt gaetz,R,Save the Internet
+FL,1,stephanie murphy,D,Save the Internet
+FL,1,val demings,D,Save the Internet
+NE,0,don bacon,R,Save the Internet
+WA,1,pramila jayapal,D,Save the Internet
+UT,0,john curtis,R,Save the Internet
+GA,1,lucy mcbath,D,Save the Internet
+MI,1,rashida tlaib,D,Save the Internet
+MN,1,ilhan omar,D,Save the Internet
+NY,1,alexandria ocasio-cortez,D,Save the Internet
+TN,0,mark green,R,Save the Internet
+TX,0,chip roy,R,Save the Internet

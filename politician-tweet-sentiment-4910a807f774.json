@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "politician-tweet-sentiment",
+  "private_key_id": "4910a807f774266aa58596ee07b3d4b44f35bebf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCdOlGPliV4ilRT\nGbC93XW+2V6UAZKYPnlJ3GhetNa8Dx3+Nay/qNeCbus633jdO3DAblAPNiiRJwVY\nHuvF9JVf0n2Pe+55jfiHTTRpUN3rbXPALxC0FhVVMpWxv/ybTdbsei9+Ir7hvQYF\nG7iSbHyL0ePD9kwZWunqjG9kdLNIgaz+Wx4+Bnzv9o3h87nsMly2r6hGtKIW6APV\nZ03bxtl3by995s6hMTs2NGzb/bBRZ0JR0CndEXejahKm6sQnfqaOwAdiF52O6C8P\nCZ6G0+HpODeVL7dg5A6Sv+UEa/jZzYp2/2GqODjjxXVaqFR6gKVe65CZTNboAYCj\nt+dc3tC9AgMBAAECggEABRiiEqWi/sp7C7uCMVFHkwFQMbtwUTt7KnP4tRMm/678\nwaPjPs4d+CYYvU6HiCI4WCBrO2b9vyC06WONMFwqaFH2DGvPscRyiQ4tU/mRS+N/\nFDxiTfgGRn3ugLWwnicSf5VBS1Uce0wpcQpyO9rE2bJar9wgoNTDzryxEqA+vGuc\nlnZbBKhcgfTc94yrnmn0aALYLhcbUFeZwwUeuHF3sN1GB/9Cgr2qi7qeqYCaRm8o\n2VE1AAp2FnZutzIyH9wLQKtUPv5Xv3zNhPEUypX6fN1+Fq/L5Xu2xdPlIeGw4MCv\nkhlHhaBMK5yGOvcxuM0kC8mEXOl2/cVuQoev5gWrSQKBgQDS4jKBmE3g58MvSDvE\n11hnL1gSWnhjHmBJe0wMKxhy1+gfWeIYqF8MR5Y/sCDBvnCiXDyG6OEJGZPta53n\nG3QeyZ6j7O03NeCJIikQMwWKDqTLO1tGwS+dZkyKWkoxhbKgKqbrtmwPIkJaPc3C\nzPPbI8OTxVKwDAXsjNRE9ZohtQKBgQC+3XfxJ9ReK6WnwzBMrzCRxy8R+ALVQcCR\nRci8g/p1aAFlfdsiAwsXWrK8sBBq+CRbB1DGFWziPX0vbfyX3adGNyBA+2/JR4Tr\ns/uc+s4Avd2x7PXILEzcPpkE8kfE7NFVR5K+kqfSosm3LaypPSC1RT3Xt/LP6Sh+\n+WZmVR936QKBgEnJcaictOszzLy3hoo6WylHjIZnd2YfE8vCQ3qifZx5ZTPLDGxa\nRV+TkMPaCawgyWJV6au+wjaf532UQRzDI18+Zq6u0NWXmWgCNuH/KDoFI64kp6xb\nHiDx0Wg7bWhkgnq+Ucd5/ddRwmu24k79zXloyx7iVStaGZyKLh+u2+5dAoGAU0co\nlUVOqQQcVHWa9mqeI40oIYv4GHqG/hvXuUFQn7eQnGrsmQuA5GDDiga8MyAwJLOt\nb7BbgN9ZZr9zrgOdf8p/vTq4DLey7HDsgRMBnVs6hu6gUwXZR2PcukbIP8kgkTgY\ndCRjK0mx/8XjBzjPs6gRkrUFMehGrhg9sLrFbzkCgYEAg9vEXFzVeK0cOAKIp9aj\nTBe1XKGGmJlzcWXGSvyfi0Dtu0SEVqAzqqK8uele6DKr7QXI9uPOOlyJdxGkWdcn\nm8qKl15dU72VjHoh5f7REKr92QfU5fxoeiqFyvruatFdoWPyXCSIqnv7wRH8tb48\nqXVCbnRWp/PXa/jFHfx15pk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "tweetsentimentanalyze@politician-tweet-sentiment.iam.gserviceaccount.com",
+  "client_id": "104655058555375913464",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tweetsentimentanalyze%40politician-tweet-sentiment.iam.gserviceaccount.com"
+}
